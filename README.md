@@ -26,3 +26,4 @@ This is my personal **Portfolio Website** built using **HTML + CSS**, deployed i
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+![CSS](screenshots/CSS.png)
