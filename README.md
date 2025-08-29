@@ -1,10 +1,10 @@
-# 🚀 Static Portfolio Website with Nginx & Docker  
+#  Static Portfolio Website with Nginx & Docker  
 
 This is my personal **Portfolio Website** built using **HTML + CSS**, deployed inside an **Nginx web server** running in a **Docker container**.  
 
 ---
 
-## 📌 Project Overview  
+##  Project Overview  
 - Built a **static portfolio** website using HTML & CSS.  
 - Used **Nginx** as the web server.  
 - Packaged the app inside a **Docker container** for easy deployment.  
