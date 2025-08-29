@@ -21,8 +21,12 @@ This is my personal **Portfolio Website** built using **HTML + CSS**, deployed i
 ---
 
 ## 📸 Screenshot
-![Website Screenshot](screenshots/final-website.png)
+![StaticWebPage](screenshots/StaticWebPage.png)
 ![CSS](screenshots/CSS.png)
+![s3-bucket](screenshots/s3-bucket.png)
+![s3-bucket](screenshots/s3-bucket.png)
+![s3-bucket](screenshots/s3-bucket.png)
+![s3-bucket](screenshots/s3-bucket.png)
 ![s3-bucket](screenshots/s3-bucket.png)
 
 ---
