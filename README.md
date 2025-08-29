@@ -20,10 +20,9 @@ This is my personal **Portfolio Website** built using **HTML + CSS**, deployed i
 
 ---
 
-## ⚙️ How to Run  
-
-1️⃣ Clone this repository  
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+## 📸 Screenshot
+![Website Screenshot](screenshots/final-website.png)
 ![CSS](screenshots/CSS.png)
+![s3-bucket](screenshots/s3-bucket.png)
+
+---
