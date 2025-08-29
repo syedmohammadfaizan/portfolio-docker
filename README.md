@@ -24,10 +24,9 @@ This is my personal **Portfolio Website** built using **HTML + CSS**, deployed i
 ![StaticWebPage](screenshots/StaticWebPage.png)
 ![Statics](screenshots/Static.png)
 ![CSS](screenshots/CSS.png)
-![s3-bucket](screenshots/s3-bucket.png)
-![s3-bucket](screenshots/s3-bucket.png)
-![s3-bucket](screenshots/s3-bucket.png)
-![s3-bucket](screenshots/s3-bucket.png)
-![s3-bucket](screenshots/s3-bucket.png)
+![BashCommand](screenshots/BashCommand.png)
+![Dockerfile](screenshots/Dockerfile.png)
+![EC2](screenshots/EC2.png)
+![HTML](screenshots/HTML.png)
 
 ---
